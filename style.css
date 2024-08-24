@@ -43,7 +43,7 @@ body {
 }
 
 #parallax .layer.assassins {
-    top: 50px;
+    top: 100px;
     background: url(./img/assassins.png);
     background-position: 0 center;
     background-size: cover;
